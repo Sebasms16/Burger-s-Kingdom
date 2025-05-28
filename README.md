@@ -1,1 +1,2 @@
-# Burger-s-Kingdom
+# 7 Kingdom
+This project is a relational database system for a gourmet burger restaurant themed around the Seven Kingdoms. It models the restaurant's core operations—such as managing orders, hamburgers, ingredients, and categories—and includes performance metrics (KPIs) and visual dashboards created in Power BI. The database is designed to support business insights through structured data and intuitive visualizations.
